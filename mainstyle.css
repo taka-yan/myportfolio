@@ -1,0 +1,29 @@
+body {
+  background-color: #E4FFFF;
+  font-size: 18px;
+}
+h1 {
+  font-size: 2em;
+  text-align: center;
+  font-family: Impact, Charcoal, sans-serif;
+}
+
+h2, h3, h4, h5, h6 {
+  font-size: 1.5em;
+  font-family: "Helvetica", "Arial", serif;
+}
+
+p, ul, ol {
+  padding: 5px 110px;
+  /*border: 2px solid #5D6063; */
+}
+
+.page {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.imagesize {
+  width: 300px;
+  margin: 0 auto;
+}
